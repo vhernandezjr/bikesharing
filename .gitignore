@@ -8,6 +8,7 @@ __pycache__/
 
 # CSV
 201908-citibike-tripdata.csv
+CitiBikes.csv
 
 # Distribution / packaging
 .Python
